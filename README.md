@@ -7,6 +7,9 @@ Machine Learning API using Python and FastAPI.
 - Generate predictions
 - Evaluate model performance
 
+## Demo Link 
+https://ml-api-with-fastapi-m7v2.onrender.com/docs⁠
+
 ## Installation
 pip install -r requirements.txt
 
