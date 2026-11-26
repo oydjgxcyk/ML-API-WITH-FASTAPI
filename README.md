@@ -21,6 +21,7 @@ https://ml-api-with-fastapi-m7v2.onrender.com/docs
 ## 🎥 Demo Video
 
 Watch the project demonstration here:
+https://drive.google.com/file/d/1GJiwyxnK-LMN8maKvQe4xJ_BFauggqVG/view?usp=drive_link
 
 
 
